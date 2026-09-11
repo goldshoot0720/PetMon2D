@@ -1,0 +1,494 @@
+[
+  {
+    "name": "baibai",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_81199bd020534dc48f32279d729af609"
+  },
+  {
+    "name": "battle",
+    "size": [
+      1536,
+      864
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_b0c45329f7874eb0adf0cdb74bfa1b85"
+  },
+  {
+    "name": "bubu",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_ceda37987c664ac1a210d92d27b57922"
+  },
+  {
+    "name": "dir_baibai",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "job": "job_1325fdba91e24c4093d548d915095c3b"
+  },
+  {
+    "name": "dir_bubu",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "job": "job_df0bcc29ceb14dacb92805ab2bf42e73"
+  },
+  {
+    "name": "fengbang",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_f0682990735a4c8583b2bdeb52f1b8ee"
+  },
+  {
+    "name": "fengshi",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_1211c12f60c44aaebc4c992e5d573e82"
+  },
+  {
+    "name": "fengxiong",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_cad40f284d4042428e116dc70bfec331"
+  },
+  {
+    "name": "fengzong",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_1a6de54a91134c079b29119b15740995"
+  },
+  {
+    "name": "gugu",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_6436d7b274c64d83b63a0f4f1679a712"
+  },
+  {
+    "name": "npc_mama",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_7084d57bee084814b70ed6becd695aed"
+  },
+  {
+    "name": "prop_bed",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_20c81094ace245f2932d70a421e4d5ff"
+  },
+  {
+    "name": "prop_fence",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_70df2dc3d0ef47a79f2fe0e84ff5973f"
+  },
+  {
+    "name": "prop_flowers",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_d4be8342867347dcb7e343a7c9f752e5"
+  },
+  {
+    "name": "prop_house_blue",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_808a065e639e4e22af3b9fe726f2d9ba"
+  },
+  {
+    "name": "prop_house_hall",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_adb311af5b2e438ca04c41dd1a7fa757"
+  },
+  {
+    "name": "prop_house_red",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_55699b9c38564cc0a854debb0dd5781d"
+  },
+  {
+    "name": "prop_rock",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_2cbb2ff3662a44449db73f52e3400275"
+  },
+  {
+    "name": "prop_rug",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_da14371be27342559b9ad2ae93397fa0"
+  },
+  {
+    "name": "prop_shelf",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_5db18d2644d845d488e2a53eea0dd577"
+  },
+  {
+    "name": "prop_sign",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_da49ed97792d49eea2c2a37eddc898b6"
+  },
+  {
+    "name": "prop_table",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_95e0d8bb95b748feab4606b418ee32de"
+  },
+  {
+    "name": "prop_tree",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_50d3af13163d4c9da0e2a5526d9b7f03"
+  },
+  {
+    "name": "spark",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_0edf0c4dc4584b06a0b0de88391c006e"
+  },
+  {
+    "name": "tex_floor",
+    "size": [
+      64,
+      64
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_2848735c8ae9481e9db2fd11e6ab9a96"
+  },
+  {
+    "name": "tex_grass",
+    "size": [
+      64,
+      64
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_ee31a50bf5d847d684e24affcc89c93f"
+  },
+  {
+    "name": "tex_path",
+    "size": [
+      64,
+      64
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_78f8eba9fbe1452bbe1b832377ca2390"
+  },
+  {
+    "name": "tex_tallgrass",
+    "size": [
+      64,
+      64
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_4426863a13fc4328b357839066f85b7c"
+  },
+  {
+    "name": "tex_wall",
+    "size": [
+      64,
+      64
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_3a3705025327486ba159d661e64150da"
+  },
+  {
+    "name": "tex_water",
+    "size": [
+      64,
+      64
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_6af1ce2403da4bc18205b42014fcf59d"
+  },
+  {
+    "name": "tile_path_on_grass",
+    "size": [
+      256,
+      256
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_fd0442b33c1f4dca9a57df1da854db09"
+  },
+  {
+    "name": "tile_tallgrass",
+    "size": [
+      256,
+      256
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "job": "job_50498989f7ba45ecb6641edf9ca69191"
+  },
+  {
+    "name": "tile_water_in_grass",
+    "size": [
+      256,
+      256
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_2cdee58901074a9bb4e8764c508f21e7"
+  },
+  {
+    "name": "title",
+    "size": [
+      1536,
+      864
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_89cd95b36142487c94eb64ca0522e751"
+  },
+  {
+    "name": "tudong",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_388ba0880e6640d589b6c62a5148f439"
+  },
+  {
+    "name": "ui",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      253
+    ],
+    "job": "job_ebf842e1ece0454584656f1ff7c2e9ef"
+  },
+  {
+    "name": "world",
+    "size": [
+      1536,
+      864
+    ],
+    "alpha": [
+      255,
+      255
+    ],
+    "job": "job_5992904660cc488db19b89b164c3bad8"
+  },
+  {
+    "name": "xiaotu",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_a8714bcb4a4f4258ae49cdb70772544b"
+  },
+  {
+    "name": "xiaoying",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_3c95e2266459472d82c0c216c3375298"
+  },
+  {
+    "name": "yamei",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_0d2ed2cc97494a9babadaa53ba638988"
+  },
+  {
+    "name": "yumei",
+    "size": [
+      1024,
+      1024
+    ],
+    "alpha": [
+      0,
+      254
+    ],
+    "job": "job_360b1ebd2901428dbae2ebe9ed80c2e6"
+  }
+]
